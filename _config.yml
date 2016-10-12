@@ -1,0 +1,9 @@
+# Theme settings
+layouts_dir: theme/layouts
+includes_dir: theme/includes
+
+# Site settings
+title: Writers Room
+description: Information for anyone who writes for Nouse
+url: "https://yorknouse.github.io/"
+baseurl: "/writersroom"
